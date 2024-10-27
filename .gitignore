@@ -9,7 +9,7 @@
 *.fls
 *.log
 *.out
-*.synctex.gz
 *.tex
+*.gz
 
-*.pdf
+*.png
